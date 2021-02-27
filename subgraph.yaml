@@ -8,7 +8,7 @@ dataSources:
     name: Factory
     network: xdai
     source:
-      address: '0x965769C9CeA8A7667246058504dcdcDb1E2975A5'
+      address: '0x6f46E63dA9c1341F8F82a5e53C08352Db1Ab8f0b'
       abi: Factory
       startBlock: 14002647
     mapping:
